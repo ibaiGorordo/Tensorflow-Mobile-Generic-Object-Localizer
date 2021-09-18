@@ -19,6 +19,11 @@ pip install pafy youtube-dl
 # Tensorflow model
 The original models was taken from [Tensorflow Hub](https://tfhub.dev/google/object_detection/mobile_object_localizer_v1/1), download it, and place it in the **[models folder](https://github.com/ibaiGorordo/Tensorflow-Mobile-Generic-Object-Localizer/tree/main/models)**. 
 
+Use the following script to download the model:
+```
+python download_model.py
+```
+
  
 # Examples
 
