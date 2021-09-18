@@ -54,7 +54,7 @@ python download_model.py
 ![Astrounaut Tensorflow detection](https://github.com/ibaiGorordo/Tensorflow-Mobile-Generic-Object-Localizer/blob/main/docs/img/astronaut.jpg)
  *Original image: https://commons.wikimedia.org/wiki/File:Astronaut_Standing_On_The_Moon.png*
 
-## Excabator detection
+## Excavator detection
 ![Excabator Tensorflow detection](https://github.com/ibaiGorordo/Tensorflow-Mobile-Generic-Object-Localizer/blob/main/docs/img/excavator.jpg)
  *Original image: https://en.wikipedia.org/wiki/Hitachi_Construction_Machinery_(Europe)#/media/File:ZX350LCN-3-Photo28-lo.jpg*
 
